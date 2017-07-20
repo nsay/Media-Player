@@ -1,5 +1,5 @@
 # Media-Player
-A simple video/audio player:
+A simple video/audio player using JavaFX sliders and JavaFX menus:
 
 * Play/Pause Button
 * Video Slider
